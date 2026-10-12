@@ -3,8 +3,6 @@ dist/
 .env*
 .DS_Store
 Thumbs.db
-LOCAL_PATHS.md
-
 # Private local crosswalk, credentials and unreviewed build artifacts
 LOCAL_PATHS.md
 *.pem
