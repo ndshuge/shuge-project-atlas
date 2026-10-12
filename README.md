@@ -13,7 +13,7 @@
 | [游戏与模拟](categories/games.md) | 7 | 驾驶物理、AI 对手、潜行、射击和即开即玩的网页游戏。 |
 | [科学与复杂系统](categories/science.md) | 4 | 混沌、数值计算、生命演化以及从微观规则到宏观现象的实验。 |
 | [交互艺术与 3D](categories/art.md) | 5 | 程序化艺术、沉浸视觉、微缩场景与历史互动叙事。 |
-| [教育与学习工具](categories/learning.md) | 3 | 真实学习路径、可操作实验、课堂辅助与复习闭环。 |
+| [教育与学习工具（网页分类筛选）](https://ndshuge.github.io/shuge-project-atlas/#projects) | 3 | 真实学习路径、可操作实验、课堂辅助与复习闭环。 |
 | [AI Agent 与开发工具](categories/agents.md) | 4 | 任务执行、事实核验、本机工具桥与个人生活 Agent。 |
 
 ## 重点作品与其价值
