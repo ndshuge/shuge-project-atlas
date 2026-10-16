@@ -6,6 +6,20 @@
 
 `23` 个精选项目 · `5` 个方向 · 截至 2026-10-12 的工程快照
 
+## 真实作品画面
+
+<table><tr>
+<td width="50%" valign="top"><a href="https://ndshuge.github.io/ndshuge-galaxy/"><img src="https://raw.githubusercontent.com/ndshuge/ndshuge/main/assets/galaxy-demo.gif" alt="SHUGE GALAXY 真正的浏览器动态演示"></a><br><strong>SHUGE GALAXY</strong> — 漫游作品星系。</td>
+<td width="50%" valign="top"><a href="https://ndshuge.github.io/ndshuge-academy/"><img src="https://raw.githubusercontent.com/ndshuge/ndshuge/main/assets/academy.png" alt="鼠哥学院真实网页截图"></a><br><strong>鼠哥学院</strong> — 五门交互课程。</td>
+</tr><tr>
+<td width="50%" valign="top"><a href="https://ndshuge.github.io/ndshuge-game/games/lumen-siege/"><img src="https://raw.githubusercontent.com/ndshuge/ndshuge/main/assets/lumen.png" alt="LUMEN SIEGE 实际游戏画面"></a><br><strong>LUMEN SIEGE</strong> — 浏览器像素生存。</td>
+<td width="50%" valign="top"><a href="https://ndshuge.github.io/ndshuge-classnote/"><img src="https://raw.githubusercontent.com/ndshuge/ndshuge/main/assets/classnote.png" alt="Classnote 真实应用截图"></a><br><strong>Classnote</strong> — 课堂记录工具。</td>
+</tr></table>
+
+<sub>所有画面均取自对应公开项目；截图展示不代表每项功能已完成验收。</sub>
+
+[项目分类导航](https://ndshuge.github.io/shuge-project-atlas/#projects) · [盘点证据](docs/AUDIT.md) · [公开边界](docs/PUBLICATION_POLICY.md)
+
 ## 分类
 
 | 方向 | 项目数 | 内容 |
